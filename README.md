@@ -19,10 +19,3 @@
 <sub>Send files across devices on your local network. No cloud.</sub>
 
 Windows · Android · macOS · iOS · iPadOS — [下载 Download](https://limlink.floatmax-tech.com/) · [Releases](https://github.com/FloatMax-tech/LimLink-Releases)
-
----
-
-### 上四休三 · Four days a week
-
-每周工作四天，薪资不变。想一起做，[发一封信](mailto:careers@floatmax-tech.com)。<br>
-<sub>Four-day week, full pay. Want to build with us? Write to careers@floatmax-tech.com.</sub>
